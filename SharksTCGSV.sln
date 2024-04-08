@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharksTCGSV", "SharksTCGSV.csproj", "{591C0982-FD30-431C-BD62-A26BE2F3DFE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "..\CapaNegocio\CapaNegocio.csproj", "{5A6FE977-6932-468A-BB7E-79B6837ECBEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "..\CapaDatos\CapaDatos.csproj", "{026EFAEA-D0BE-48C8-B7B6-CECCAC133F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591C0982-FD30-431C-BD62-A26BE2F3DFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591C0982-FD30-431C-BD62-A26BE2F3DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591C0982-FD30-431C-BD62-A26BE2F3DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591C0982-FD30-431C-BD62-A26BE2F3DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6FE977-6932-468A-BB7E-79B6837ECBEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6FE977-6932-468A-BB7E-79B6837ECBEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6FE977-6932-468A-BB7E-79B6837ECBEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6FE977-6932-468A-BB7E-79B6837ECBEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026EFAEA-D0BE-48C8-B7B6-CECCAC133F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026EFAEA-D0BE-48C8-B7B6-CECCAC133F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026EFAEA-D0BE-48C8-B7B6-CECCAC133F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026EFAEA-D0BE-48C8-B7B6-CECCAC133F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {408CB813-5881-4BCD-AB8A-F5D9FA294EB3}
+	EndGlobalSection
+EndGlobal
